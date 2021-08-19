@@ -1,5 +1,4 @@
-# mock-dv-server
-Mock DoubleVerify Server
+# Mock DoubleVerify Server
 
 Mock DoubleVerify server. Based on the outline provided by the DoubleVerify IQ Connect guide.
 You can call the mock /dv-iqc endpoint with the params in the DoubleVerify preferred order. The hv parameter
